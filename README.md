@@ -1,0 +1,1 @@
+A script for uploading bank statements to YNAB
